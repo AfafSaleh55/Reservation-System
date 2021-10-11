@@ -66,3 +66,5 @@ MasterRoom.append("Swimming Pool")
 MasterRoom.append("WiFi")
 MasterRoom.append("Gym")
 
+// Newly Added
+MasterRoom.append("Gym-MoreWorkout")
